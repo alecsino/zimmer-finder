@@ -1,0 +1,9 @@
+node_modules
+bin
+.vs
+
+package-lock.json
+*.html
+*.rar
+
+.DS_STORE
